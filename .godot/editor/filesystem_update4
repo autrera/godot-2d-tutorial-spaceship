@@ -3,3 +3,5 @@ res://lessons/ship.tscn
 res://lessons/ship.gd
 res://practices/L2.P1.bullet/bullet.gd
 res://practices/L2.P1.bullet/bullet.tscn
+res://practices/L3.P1.character_input/character_input.gd
+res://practices/L3.P1.character_input/character_input.tscn
