@@ -13,4 +13,6 @@ func _process(delta: float) -> void:
 	
 	velocity = direction * max_speed
 	position += velocity * delta
-	rotation = velocity.angle()
+	
+	if direction.length() > 0.0:
+		rotation = velocity.angle()
