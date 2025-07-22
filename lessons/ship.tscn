@@ -4,7 +4,7 @@
 [ext_resource type="Script" uid="uid://do82djpe8ul3p" path="res://lessons/ship.gd" id="2_d6uqs"]
 
 [node name="Sprite2D" type="Sprite2D"]
-position = Vector2(982, 517)
+position = Vector2(0, -1)
 texture = ExtResource("1_2dafo")
 script = ExtResource("2_d6uqs")
 
